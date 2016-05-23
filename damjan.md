@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 d
 a
 m
 miklic
+=======
+dmike
+>>>>>>> origin/master
