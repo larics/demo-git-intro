@@ -1,2 +1,1 @@
-mirkovic pizda
-
+mirkovic legenda
