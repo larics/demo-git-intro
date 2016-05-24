@@ -2,3 +2,5 @@ Mirko Vico, ponajbolji studenat avtomaticnog smera, pocesto nenasilno dosadan i 
 
 
 Mirko was here.
+
+Debil was here.
