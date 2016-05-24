@@ -1,2 +1,7 @@
 k
-promjena
+
+karlo
+k_promjena
+
+d_promjena
+
